@@ -27,12 +27,12 @@ A Java application that provides a graphical interface for converting Non-determ
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/nfa-to-dfa-converter.git
+   git clone https://github.com/adi30042005/NFA-to-DFA-VISUALIZATION.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd nfa-to-dfa-converter
+   cd NFA-to-DFA-VISUALIZATION
    ```
 
 3. Compile the Java files:
